@@ -1,1 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T15:00:56.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9sjEVPbx_pjODrxw8ae_" version="16.2.7" type="github"><diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">7VlNj5swEP01OW4F2AQ4bj5299BKlVK1Zwc7YK3BlJgm6a/vmJgEAiiJlKhpFyIFe2bw2POezdiM0DTZvuYki79IysTIseh2hGYjx7Gx5cNNS3Z7iYeNIMo5NUZHwYL/ZkZoGWnBKVs3DJWUQvGsKQxlmrJQNWQkz+WmabaSouk1IxFrCRYhEW3pD05VbKS2ZR0Vb4xHsXHtu0axJOF7lMsiNf5SmbK9JiFVM8Z0HRMqNzURmo/QNJdS7UvJdsqEDmsVsf1zLz3aQ5dzlqpLHsAsDLwlDZhLHct2/CfTwi8iChMG01G1q+IiOAwHTdYql++HyEDPJ7FKBBRtKK64EFMpZA71cvggkqkyIDu+qVcmIwdZFp4FwaHdLk17cFVvWa7YtiYyg31lMmEq34GJ0WIT911VNfVNDWCrEsY1cCtSEkOq6ND0MbpQMAG+MNhuK9gLpUkJ2lbUgSmZLsrV6ivYTPek1zGabGKu2CIjodZvYDL2Y1GG03PnfhMQ220D8lJeGpC9jfXJtQLkuZa5ymd05DlMmWfBoxSMlMxaEBr8b4Ce7TThQ7gDvnEHevge6I07pspYKD3+jKRQjnS5QhRVSvBT1w9AdwDteuiBgPauAtr5h4DGtue7no2d8h+XzwiefTd+TkFfSqVk0oc7DDbkaTQxRjN8Gy4g7DXXbMe9jAvIvQMX/Ku4gAcu3JQLvmU9EBeC87kStADpKrsaxrE9eS7huS5rqrIxdO88yg5O3sRBGwinAwfnHutzlZt9RCBg1j4QEBfsHv5XIMYYPRAQ6OMC4XuPtDTh3nwhtqts4I0RCi/LWq5w1FXCrBJ8ljlLtMtsXeg7LaMIyHKlOw9dHjnT/anIGlIIpgqtBQcZX/OwdGMxwY3VmtGyDS3kxTqRuqpYkpVt8jTklNMi1U0X+k+QJfjX1qryzcpzjSgl2o3gPwvyqTaSrDflAThVk2gmaYCae6x90xuN2ROg001UCcxYifIMJeaUsrQ3JWnR8ITY87H+naROqIvY+gI5MalQCGRlOlUrz3wYNcO5AZeD5pqCUXsb5Nhum8v2fcjcv+MdyDyQ+exGzg4abHbcv8vm/m39wOaBzWePqLD7UGtz/8HEwOaBzefY7J0cuN51bYbq8QtXqat9QUTzPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-20T15:36:47.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="aCukPjtVqrFXiGITIKcA" version="16.2.7" type="github">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="1460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="day 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="Day 5" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1107.5" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="day 2&amp;nbsp;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Day 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="1177.5" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;User Login/Roll&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Develop api for User Login or Define Different Roll&amp;nbsp;&lt;/p&gt;&lt;p&gt;1.Vender 2.Admin 3.SubAdmin&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;User Sign in&amp;nbsp;&lt;/h1&gt;&lt;p&gt;develop api for User sign.&amp;nbsp;&lt;/p&gt;&lt;p&gt;add Verification medium.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="260" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Develop Form Submission Api (1/4)&lt;/h1&gt;&lt;p&gt;Develop Api For Insurance Form&amp;nbsp;&lt;/p&gt;&lt;p&gt;According Different Service&amp;nbsp;&lt;/p&gt;&lt;p&gt;and&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="450" width="214.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-3" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1367" y="430" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-5" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="255" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-15" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="1460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-16" value="day 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="107" y="770" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-17" value="Day 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1094.5" y="770" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-18" value="day 2&amp;nbsp;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="334" y="855" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-19" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="787" y="855" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="177" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="404" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-23" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="857" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-24" value="&lt;h1&gt;User Login/Roll&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Develop api for User Login or Define Different Roll&amp;nbsp;&lt;/p&gt;&lt;p&gt;1.Vender 2.Admin 3.SubAdmin&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-25" value="&lt;h1&gt;User Sign in&amp;nbsp;&lt;/h1&gt;&lt;p&gt;develop api for User sign.&amp;nbsp;&lt;/p&gt;&lt;p&gt;add Verification medium.&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="680" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-26" value="&lt;h1&gt;Add Create Enquary(1/2)&lt;/h1&gt;&lt;p&gt;develop a Api For Search For existing User Or if Not Save Fill Details and Allow To Create FollowUp On It&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1067" y="880" width="214.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-27" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-28" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="860" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-29" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1424" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-30" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="685" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-31" value="Day 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-32" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-33" value="&lt;h1&gt;Add Create Enquary(1/2)&lt;/h1&gt;&lt;p&gt;develop a Api For Search For existing User Or if Not Save Fill Details and Allow To Create FollowUp On It&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="214.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-34" value="Day 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="564.75" y="770" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="634.75" y="825" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-36" value="&lt;h1&gt;Add Create Enquary(1/2)&lt;/h1&gt;&lt;p&gt;develop a Api For Search For existing User Or if Not Save Fill Details and Allow To Create FollowUp On It&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="537.25" y="880" width="214.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-37" value="day 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-38" value="Day 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1066.5" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-39" value="day 2&amp;nbsp;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1285" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-40" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="759" y="1285" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-41" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-42" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="376" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-43" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1136.5" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-44" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="829" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-45" value="&lt;h1&gt;User Login/Roll&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Develop api for User Login or Define Different Roll&amp;nbsp;&lt;/p&gt;&lt;p&gt;1.Vender 2.Admin 3.SubAdmin&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1290" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-46" value="&lt;h1&gt;User Sign in&amp;nbsp;&lt;/h1&gt;&lt;p&gt;develop api for User sign.&amp;nbsp;&lt;/p&gt;&lt;p&gt;add Verification medium.&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1110" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-47" value="&lt;h1&gt;Add Create Enquary(1/2)&lt;/h1&gt;&lt;p&gt;develop a Api For Search For existing User Or if Not Save Fill Details and Allow To Create FollowUp On It&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="1310" width="214.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-48" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="1110" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-49" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="1290" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-50" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1396" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-51" value="&lt;h1&gt;Add Create Enquary (2/2)&lt;/h1&gt;&lt;p&gt;remain Same&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="1115" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-52" value="Day 3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536.75" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-53" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="606.75" y="1255" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN0ZOMY8nhzSHphKRqcB-54" value="&lt;h1&gt;Add Create Enquary(1/2)&lt;/h1&gt;&lt;p&gt;develop a Api For Search For existing User Or if Not Save Fill Details and Allow To Create FollowUp On It&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="509.25" y="1310" width="214.5" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
